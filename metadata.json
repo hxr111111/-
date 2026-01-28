@@ -1,0 +1,5 @@
+{
+  "name": "VideoVault AI",
+  "description": "A smart video manager to organize, track, and summarize your Bilibili and YouTube collection using Gemini AI.",
+  "requestFramePermissions": []
+}
